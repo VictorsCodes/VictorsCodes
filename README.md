@@ -1,28 +1,31 @@
-```js
-import Desenvolvedor from 'SeuNick';
-class SobreMim extends Desenvolvedor {
-  nome     = 'Victor Figueiredo';
-  area    = 'Front-End Beginner';
-  trabalho  = 'waiting...';
-  local = 'Brazil-MG';
-}
-class Skills extends Desenvolvedor {
-  linguagens  = ['HTML, CSS, JS'];
-  bibliotecas  = ['Boostrap'];
-  frameworks = ['Learning Vue'];
-}
-```
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+<p align="left"> 
+  🌎 Olá, meu nome é Victor Figueiredo. Sou <strong>Desenvolvedor de Front-End</strong>.
+</p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jvgamer703@gmail.com" /></a>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap</strong>
+</p>
 
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, Figma, Git e GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
+  </a>
   
-
- 
-
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
   
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/1victorx_/"></a>
-</p> 
+  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/QevDJqCzaY"/>
+  </a>
+</p>

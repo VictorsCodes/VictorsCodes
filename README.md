@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Typescript, Bootstrap, TailwindCSS</strong>
 </p>
 
 <p align="left">

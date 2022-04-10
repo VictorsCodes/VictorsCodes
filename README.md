@@ -5,9 +5,9 @@ import Developer from 'Victor';
 
 class About Me extends Developer {
   name     = 'Victor Figueiredo';
-  area    = 'FrontEnd';
-  local = 'Brasil';
-  hobbies = [
+  area     = 'FrontEnd';
+  local    = 'Brasil';
+  hobbies  = [
     'Fps Games',
     'Marvel Cinematic Universe',
     'Play with my dog'
@@ -16,8 +16,8 @@ class About Me extends Developer {
 
 class Skills extends Developer {
   linguagens  = ['HTML, CSS, JS, TypeScript'];
-  bibliotecas  = ['ReactJS'];
-  frameworks = ['TailwindCSS, Boostrap'];
+  bibliotecas = ['ReactJS'];
+  frameworks  = ['TailwindCSS, Boostrap'];
 }
 ```
 

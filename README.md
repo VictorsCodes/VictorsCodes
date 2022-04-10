@@ -14,7 +14,7 @@ class About Me extends Developer {
   ]
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   linguagens  = ['HTML, CSS, JS, TypeScript'];
   bibliotecas  = ['ReactJS'];
   frameworks = ['TailwindCSS, Boostrap'];
